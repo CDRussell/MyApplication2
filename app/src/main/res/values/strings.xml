@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DDG Search</string>
+    <string name="instructions">Click FAB to launch DDG</string>
+</resources>
